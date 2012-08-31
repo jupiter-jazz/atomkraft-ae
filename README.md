@@ -1,7 +1,7 @@
 AtomKraft/AE
 ============
 
-[AtomKraft/AE](https://atomkraft.hk/aftereffects) is the interactive 3D toolkit for look development, matte painting, lighting & rendering tightly integrated in [Adobe After Effects](http://adobe.com/products/nuke).
+[AtomKraft/AE](https://atomkraft.hk/aftereffects) is the interactive 3D toolkit for look development, matte painting, lighting & rendering tightly integrated in [Adobe After Effects](http://adobe.com/products/aftereffects).
 
 It is developed by the VFX & rendering nutjobs of Jupiter Jazz Limited and it is targeted too broadcast and motion graphics production usage.
 
